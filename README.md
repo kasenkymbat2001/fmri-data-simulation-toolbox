@@ -33,3 +33,4 @@ Farabi  University
 GitHub: [kasenkymbat2001](https://github.com/kasenkymbat2001)
 **Dr. Mikhail Melnikov**  
 Scientific supervisor
+Farabi  University  
