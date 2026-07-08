@@ -24,3 +24,12 @@ Python, NumPy, NiBabel, Matplotlib, Tkinter
 ## Purpose
 
 The toolbox was developed as part of a Master's thesis in Neuroscience to support simulation-based testing of fMRI activity and connectivity analysis pipelines.
+
+## Author
+
+**Kymbat Kassen**  
+Neuroscience Researcher,
+Farabi  University  
+GitHub: [kasenkymbat2001](https://github.com/kasenkymbat2001)
+**Dr. Mikhail Melnikov**  
+Scientific supervisor
